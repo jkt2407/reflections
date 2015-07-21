@@ -19,4 +19,8 @@ A. Only put the fixes for one logical change into the staging area, then
 Q. What are some situations when branches would be helpful in keeping your
    history organized? How would branches help?
 A. When working on a bug fix or feature. Branches segregate the code
-   frin=m the main (master) branch
+   from the main (master) branch
+
+Q. How do the diagrams help you visualize the branch structure?
+A. By maing it clear which node is the parent of each commit
+

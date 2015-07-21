@@ -3,3 +3,10 @@ More reflections
 Q. What happens when you initialize a repository? Why do you need to do it?
 A. It creates a .git file with the current state of all the filess. To establish
    a baseline.
+
+Q. How is the staging area different from the working directory and the
+   repository? What value do you think it offers?
+A. The staging area is for stuff that you want to commit. The repository
+   is for stuff already committed. The working directory is for stuff
+   that isn't yet commitworthy. The staging area lets me park code I want
+   to commit and keep it separate from code-in-progress.

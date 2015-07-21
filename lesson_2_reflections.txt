@@ -10,3 +10,8 @@ A. The staging area is for stuff that you want to commit. The repository
    is for stuff already committed. The working directory is for stuff
    that isn't yet commitworthy. The staging area lets me park code I want
    to commit and keep it separate from code-in-progress.
+
+Q. How can you use the staging area to make sure you have one commit per
+   logical change?
+A. Only put the fixes for one logical change into the staging area, then
+   commit them befor putting antyhing else into the staging area.

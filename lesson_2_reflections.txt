@@ -1,0 +1,5 @@
+More reflections
+
+Q. What happens when you initialize a repository? Why do you need to do it?
+A. It creates a .git file with the current state of all the filess. To establish
+   a baseline.

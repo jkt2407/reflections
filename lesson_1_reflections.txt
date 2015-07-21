@@ -1,0 +1,59 @@
+Q. How did viewing a diff between two versions of a file help you
+   see the bug that was introduced?
+A. Since there were very few changes from the previous version,
+   it was easy to spot the typo that was introduced.
+
+Q. How could having easy access to the entire history of a file
+   make you a more efficient programmer in the long term?
+A. It makes it easier to find bugs that were introduced when the
+   code was altered. You can also revert to a previous version
+   (when that makes sense) when new code doesn't work out. Plus,
+   if someone else commits some code that turns out to be a
+   problem, you have a complete audit trail, so you can easily
+   spot the culprit and the smoking gun.
+
+Q. What do you think are the pros and cons of manually choosing
+   when to create a commit, like you do in Git, vs having versions
+   automatically saved, like Google docs does?
+A. Pros: commits are done at a logical time rather than an
+   arbirary time, so they are going to be more meaningful when
+   they are referred to in the future. There will probably be
+   fewer of them, as well. Cons: you have to remember to do a
+   manual commit, whereas when it's done automatically you don't
+   have to think about it. Also there's the danger that the
+   committer will commit too little or too much code, making it
+   hard to make sense of the commit(s).
+
+Q. Why do you think some version control systems, like Git,
+   allow saving multiple files in one commit, while others,
+   like Google Docs, treat each file separately?
+A. Google Docs is aimed more towards crearing word processing
+   documents and spreadsheets, which are most often just single
+   documents. The complication of tracking multiple documents
+   is not needed and would only make version tracking in Google
+   Docs harder to use. On the other hand, source code version
+   control is usually used to track changes in code. Itcries
+   out for the ability to commit multiple files simulaneously,
+   since this is an extrememly common use case.
+
+Q. How can you use the commands git log and git diff to view
+   the history of files?
+A. Git log lists all the commits and git diff lists the delta
+   betweem any two commits.
+
+Q. How might using version control make you more confident
+   to make changes that could break something?
+A. There's no down side to experimenting because you can
+   always revert to a previous, working version.
+
+Q. Now that you have your workspace set up, what do you want
+   to try using Git for?
+A. Version control, dummy.
+
+
+
+
+
+
+
+

@@ -15,3 +15,8 @@ Q. How can you use the staging area to make sure you have one commit per
    logical change?
 A. Only put the fixes for one logical change into the staging area, then
    commit them befor putting antyhing else into the staging area.
+
+Q. What are some situations when branches would be helpful in keeping your
+   history organized? How would branches help?
+A. When working on a bug fix or feature. Branches segregate the code
+   frin=m the main (master) branch

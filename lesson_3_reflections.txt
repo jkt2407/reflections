@@ -1,0 +1,5 @@
+Q. When would you want to use a remote repository rather than keeping all your work local?
+A. When you're working on the same project from more than one computer. However, even if
+   you're working on a single computer, it's a good idea to have a copy of your project
+   saved in the cloud, just in case.
+   

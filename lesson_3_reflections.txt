@@ -20,3 +20,7 @@ A. A fork is a clone of a repository made from github to github. A clone is a co
    segregating bug fixes and features from the main master branch during
    development.
 
+Q. What is the benefit of having a copy of the last known state of the remote
+   stored locally?
+A. You can work offline and still have the latest code from the remote
+   repository available.

@@ -24,3 +24,7 @@ A. When working on a bug fix or feature. Branches segregate the code
 Q. How do the diagrams help you visualize the branch structure?
 A. By maing it clear which node is the parent of each commit
 
+Q. What is the result of merging two branches together? Why do we
+   represent it in the diagram the way we do?
+A. A single branch with the changes from both branches. To show
+   how the two branches merge into a single branch.

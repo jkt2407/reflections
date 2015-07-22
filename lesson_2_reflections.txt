@@ -28,3 +28,9 @@ Q. What is the result of merging two branches together? Why do we
    represent it in the diagram the way we do?
 A. A single branch with the changes from both branches. To show
    how the two branches merge into a single branch.
+
+Q. What are the pros and cons of Git’s automatic merging vs. always
+   doing merges manually?
+A. Pros: it's faster and helps resolve trivial merges. Cons: the
+   person doing the merge isn't forced to review all of the
+   changes when doing a merge.

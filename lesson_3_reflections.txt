@@ -24,3 +24,11 @@ Q. What is the benefit of having a copy of the last known state of the remote
    stored locally?
 A. You can work offline and still have the latest code from the remote
    repository available.
+
+Q. How would you collaborate without using Git or GitHub? What would be easier,
+   and what would be harder?
+A. You could use a different version control system. Or you could just do
+   everything manually. It would be easier because you'd have less to learn,
+   but you wouldn't have all the powerful tool for labeling, branching and
+   merging that version control provides. Git and GitHub are just the latest
+   such tools.

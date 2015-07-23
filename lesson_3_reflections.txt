@@ -32,3 +32,11 @@ A. You could use a different version control system. Or you could just do
    but you wouldn't have all the powerful tool for labeling, branching and
    merging that version control provides. Git and GitHub are just the latest
    such tools.
+
+Q. When would you want to make changes in a separate branch rather than
+   directly in master? What benefits does each approach have?
+A. Didn't I already answer this question? It's easier just to keep
+   everything in master, but branches are nice for bug fixing and new
+   features, so that the master branch is always stable. Branches are
+   also good when you're collaborating with others, so it's easier to
+   pull down just the changes you want.
